@@ -13,6 +13,7 @@
 		8B9122EE21C0EA9300690590 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B9122ED21C0EA9300690590 /* Assets.xcassets */; };
 		8B9122F121C0EA9300690590 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9122EF21C0EA9300690590 /* LaunchScreen.storyboard */; };
 		8B9122FC21C0EA9300690590 /* ContactListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9122FB21C0EA9300690590 /* ContactListTests.swift */; };
+		8B91230721C0F4E500690590 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91230621C0F4E500690590 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8B9122F721C0EA9300690590 /* ContactListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContactListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B9122FB21C0EA9300690590 /* ContactListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactListTests.swift; sourceTree = "<group>"; };
 		8B9122FD21C0EA9300690590 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B91230621C0F4E500690590 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				8B9122ED21C0EA9300690590 /* Assets.xcassets */,
 				8B9122EF21C0EA9300690590 /* LaunchScreen.storyboard */,
 				8B9122F221C0EA9300690590 /* Info.plist */,
+				8B91230621C0F4E500690590 /* NewViewController.swift */,
 			);
 			path = ContactList;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B91230721C0F4E500690590 /* NewViewController.swift in Sources */,
 				8B9122E921C0EA8F00690590 /* ViewController.swift in Sources */,
 				8B9122E721C0EA8F00690590 /* AppDelegate.swift in Sources */,
 			);
