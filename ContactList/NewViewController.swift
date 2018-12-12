@@ -12,7 +12,7 @@ class NewViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("this is new controller so good")
         // Do any additional setup after loading the view.
     }
     
